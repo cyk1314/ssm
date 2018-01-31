@@ -1,0 +1,6 @@
+2018-01-28 09:53:45,365 0      [           main] INFO  ClassPathXmlApplicationContext  - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@47fd17e3: startup date [Sun Jan 28 09:53:45 CST 2018]; root of context hierarchy
+2018-01-28 09:53:45,526 161    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/applicationContext.xml]
+2018-01-28 09:53:45,896 531    [           main] INFO  ry.xml.XmlBeanDefinitionReader  - Loading XML bean definitions from class path resource [spring/applicationContext-mybatis.xml]
+2018-01-28 09:53:46,164 799    [           main] INFO  .PropertyPlaceholderConfigurer  - Loading properties file from class path resource [jdbc.properties]
+2018-01-28 09:53:46,164 799    [           main] INFO  redAnnotationBeanPostProcessor  - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-01-28 09:53:46,547 1182   [           main] INFO  aba.druid.pool.DruidDataSource  - {dataSource-1} inited
